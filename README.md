@@ -18,7 +18,7 @@
 
 🔴 **Релизы:**
 
-в тг:https:https://t.me/oldhorizons/4405
+ТГ:https:https://t.me/oldhorizons/4405
 
 RusStore:https://www.rustore.ru/catalog/app/com.oldhorizons.app
 
