@@ -8,24 +8,15 @@
 
 🔗 **Соц. Сети:**
 
-Ютуб:https://youtube.com/@oldhorizons?si=ABBCwt0RLa2WOU97
-
+*Ютуб:https://youtube.com/@oldhorizons?si=ABBCwt0RLa2WOU97
 Телеграм:https://t.me/oldhorizons
-
-Дс:https://discord.gg/HeqeVB8veH
-
-Сайт:https://skybuilder1717.ru/mrgogys/oldhorizons/
+Дс:https://discord.gg/p4KnZEVPgT
+Сайт:https://skybuilder1717.ru/mrgogys/oldhorizons/*
 
 🔴 **Релизы:**
 
-ТГ:https:https://t.me/oldhorizons/4405
-
-RusStore:https://www.rustore.ru/catalog/app/com.oldhorizons.app
-
+*RusStore:https://www.rustore.ru/catalog/app/com.oldhorizons.app
 Трешбокс:https://trashbox.ru/topics/192503/old-horizons
-
 Game jolt:https://gamejolt.com/games/oldhorizons/980424
-
 Zoro Game Store:https://zoro-game.store/pages/game/game.html?id=52
-
-itch.io:https://gap-apk.itch.io/old-horizons
+itch.io:https://gap-apk.itch.io/old-horizons*
