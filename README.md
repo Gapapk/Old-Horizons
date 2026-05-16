@@ -8,7 +8,7 @@
 
 🔗 **Соц. Сети:**
 
-Ютуб:https://youtube.com/@oldhorizons?si=ABBCwt0RLa2WOU97
+*Ютуб:https://youtube.com/@oldhorizons?si=ABBCwt0RLa2WOU97
 Телеграм:https://t.me/oldhorizons
 Дс:https://discord.gg/p4KnZEVPgT
 Сайт:https://skybuilder1717.ru/mrgogys/oldhorizons/*
