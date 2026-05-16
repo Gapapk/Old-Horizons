@@ -19,6 +19,7 @@
 ⚛️ *Сайт:https://skybuilder1717.ru/mrgogys/oldhorizons/*
 
 🔴 ***Релизы:***
+
 😃 *RusStore:https://www.rustore.ru/catalog/app/com.oldhorizons.app*
 
 🗑️ *Трешбокс:https://trashbox.ru/topics/192503/old-horizons
