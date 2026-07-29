@@ -29,7 +29,7 @@
 
 🗑️ *Трешбокс:https://trashbox.ru/topics/192503/old-horizons*
 
-📼 *Game Holt:https://gamejolt.com/games/oldhorizons/980424*
+📼 *Game Jolt:https://gamejolt.com/games/oldhorizons/980424*
 
 📀 *Zoro Game Store:https://zoro-game.store/pages/game/game.html?id=52*
 
