@@ -18,8 +18,6 @@
 
 🌐 *Дс:https://discord.gg/p4KnZEVPgT*
 
-⚛️ *Сайт:https://skybuilder1717.ru/mrgogys/oldhorizons/*
-
 <hr>
 
 # 🛫 ***Релизы:***
