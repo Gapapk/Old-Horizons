@@ -1,3 +1,5 @@
+<img src="https://yt3.googleusercontent.com/owfQ5bEWRn_A8GJ9_8ycOYToMlDdodFWDPWkhmCml7oI_9isQFBRYVYR59WIk57Nh9iWadx3qA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Логотип">
+
 # 🛰️ Old Horizons - Проект которая цель создать мелон на ccode!
 
 *Уже готово Lua, моды, и некоторые другие штуки!* ***Дальше БОЛЬШЕ!!***
