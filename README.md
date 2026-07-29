@@ -1,5 +1,6 @@
-# 🛰️ Old Horizons - это проект который разрабатывается на Ccode.
-*С скрытым лорам и хорошими механиками и текстурами.*
+# 🛰️ Old Horizons - Проект которая цель создать мелон на ccode!
+
+*уже готово lua, моды, и некоторые другие штуки! Дальше БОЛЬШЕ!!*
 
 <hr>
 
@@ -12,21 +13,21 @@
 
 # 🔗 Соц. Сети
 
-🔴 *Ютуб:https://youtube.com/@oldhorizons?si=ABBCwt0RLa2WOU97*
+🔴 *YouTube:https://youtube.com/@oldhorizons?si=ABBCwt0RLa2WOU97*
 
-🔵 *Телеграм:https://t.me/oldhorizons*
+🔵 *Telegram:https://t.me/oldhorizons*
 
-🌐 *Дс:https://discord.gg/p4KnZEVPgT*
+🌐 *Discord:https://discord.gg/p4KnZEVPgT*
 
 <hr>
 
-# 🛫 ***Релизы:***
+# 🛫 Релизы
 
 😃 *RusStore:https://www.rustore.ru/catalog/app/com.oldhorizons.app*
 
 🗑️ *Трешбокс:https://trashbox.ru/topics/192503/old-horizons*
 
-📼 *Game jolt:https://gamejolt.com/games/oldhorizons/980424*
+📼 *Game Holt:https://gamejolt.com/games/oldhorizons/980424*
 
 📀 *Zoro Game Store:https://zoro-game.store/pages/game/game.html?id=52*
 
